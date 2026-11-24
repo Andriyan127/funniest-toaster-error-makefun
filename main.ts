@@ -10,6 +10,7 @@
 // Scoring (0-25): A "Per company policy..." 23 -> A1 tightened 24 ->
 // A2 reframed as a first-name-basis boundary 24 -> A2a (winner, contraction
 // for a more natural deadpan voice) 24. Full table in README.md.
+// Revision note (2026-11-24): line final — 69 chars, within the 120-char gate.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
